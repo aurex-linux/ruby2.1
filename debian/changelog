@@ -1,3 +1,9 @@
+ruby2.1 (2.1.2-2ubuntu3~aurex1) trusty; urgency=medium
+
+  * rebuild for aurex 14.04
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 05 Jun 2015 17:40:23 +0200
+
 ruby2.1 (2.1.2-2ubuntu3) vivid; urgency=medium
 
   * SECURITY UPDATE: denial of service via XML expansion
